@@ -16,6 +16,7 @@ reinos-vertebrados:
   - Plantae: 
     - "Pinheiro"
     - "Ipê"
+  - qnt-Animalia: 5
   - Animalia: 
     - peixes:
       - "tubarão"
