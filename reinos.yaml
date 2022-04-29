@@ -1,0 +1,38 @@
+---
+
+qnt-reinos: 5
+
+reinos-vertebrados: 
+  - Monera: 
+    - "bactéria"
+    - "Cianobactéria"
+  - Protista:
+    - "alga"
+    - "protozoário" 
+  - Fungi: 
+    - "bolore"
+    - "cogumelo"
+    - "levedo"
+  - Plantae: 
+    - "Pinheiro"
+    - "Ipê"
+  - Animalia: 
+    - peixes:
+      - "tubarão"
+      - "peixe dourado"
+      - "arraia"
+    - Anfibios: 
+      - "Sapo"
+      - "Rã"
+    - Repteis:
+      - "jacaré"
+      - "lagarto"
+    - Aves: 
+      - "beja-flor"
+      - "pinguim"
+      - "galinha"
+      - "papagaio"
+    - mamiferos:
+      - "Humano"
+      - "gato"
+      - "morcego"
